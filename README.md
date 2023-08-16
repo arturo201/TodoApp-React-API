@@ -23,7 +23,7 @@ Custom styling provided via 'App.css'.
 
 1. Clone the repository
 ```
-  git clone https://github.com/arturo201/social-media-app.git
+  git clone https://github.com/arturo201/TodoApp-React-API.git
 ```
 2. Go to the project directory
 ```
